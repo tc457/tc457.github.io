@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tainon Chen</title>
+    <link>https://tc457.github.io/</link>
+    <description>Recent content on Tainon Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:15 -0400</lastBuildDate><atom:link href="https://tc457.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Past Projects</title>
+      <link>https://tc457.github.io/past_projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:15 -0400</pubDate>
+      
+      <guid>https://tc457.github.io/past_projects/</guid>
+      <description>Cornell MFE SP&#39;22: Using Financial News Headlines for Stock Price Predictions
+ Used NLP and machine learning methods to predict stock, industry, and index returns from a dataset of financial news headlines. ORIE-5740 (Statistical Data Mining)  SP&#39;22: Constructing Optimal Portfolios using Hierarchical Clustering and Bayesian Shrinkage
+ Applied Bayesian shrinkage to hierarchically clustered stocks to generate higher-performance porfolios. ORIE-5370 (Optimization for Finance)  WN&#39;21: Predicting Stock Prices Using COVID-19 Data</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tc457.github.io/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://tc457.github.io/about/</guid>
+      <description>I am a current Masters in Financial Engineering student at Cornell University (&amp;lsquo;22), interested in working at the intersection of finance and technology.
+I obtained my Bachelors in Electrical Engineering at the University of Michigan (&amp;lsquo;21), with minors in Computer Science and Mathematics.
+I am an incoming summer intern at Beacon Platform, an NYC-based fintech startup. I have previously interned at Ford Motor Company as a Research Engineer Intern (&amp;lsquo;19, &amp;lsquo;20) and at New York City Transit as a Software/Electrical Engineer Intern (&amp;lsquo;18).</description>
+    </item>
+    
+  </channel>
+</rss>

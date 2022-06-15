@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tainon Chen</title>
+    <link>https://tc457.github.io/categories/</link>
+    <description>Recent content in Categories on Tainon Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:15 -0400</lastBuildDate><atom:link href="https://tc457.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>past_projects</title>
+      <link>https://tc457.github.io/categories/past_projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:15 -0400</pubDate>
+      
+      <guid>https://tc457.github.io/categories/past_projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://tc457.github.io/categories/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://tc457.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
